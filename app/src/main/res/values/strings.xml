@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DialogBox</string>
+    <string name="positive_dialog_box_text">You have successfully completed the game. Keep it up in the future!</string>
+    <string name="positive_dialog_box_title">Impressive!</string>
+    <string name="negative_dialog_box_text">You have failed to complete the game. So close! Wanna have another go at it?</string>
+    <string name="negative_dialog_box_title">Awww... Snap!</string>
+</resources>
